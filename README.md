@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm  Varsha JJ</h1>
 
 <!--
 **Varsha-JJ/Varsha-JJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
