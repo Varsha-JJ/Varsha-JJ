@@ -9,6 +9,13 @@
 - 📫 How to reach me varshajj22000@gmail.com
 
 - ⚡ Fun fact :- Live Love Laugh
+- <br>
+- <h3 align="left">Connect with me:</h3>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/varsha-jj-051555206/"target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  </p>
 <!--
 **Varsha-JJ/Varsha-JJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
