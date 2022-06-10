@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm  Varsha JJ</h1>
+<h3 align="center"> Iam a MCA student at Amal jyothi College Of Engineering,Kottayam.</h3>
 
+<br>
+<br>
+- 🌱 I’m currently learning Master Of Computer Application
+
+- 📫 How to reach me varshajj22000@gmail.com
+
+- ⚡ Fun fact :- Live Love Laugh
 <!--
 **Varsha-JJ/Varsha-JJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
