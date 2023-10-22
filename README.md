@@ -9,7 +9,7 @@
 - 📫 How to reach me varshajj22000@gmail.com
 
 - ⚡ Fun fact :- Live Love Laugh
-- <br>
+ <br>
 - <h3 align="left">Connect with me:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/varsha-jj-051555206/"target="blank"><img align="center"
