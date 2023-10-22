@@ -4,7 +4,7 @@
 
 <br>
 <br>
-- 🌱 I’m currently learning Master Of Computer Application
+- 🌱 Completed Master Of Computer Application
 
 - 📫 How to reach me varshajj22000@gmail.com
 
