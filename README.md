@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Varsha JJ</h1>
 <h3 align="center"> MCA graduate from Amal jyothi College Of Engineering,Kottayam.</h3>
-<p align="center"><img align="center" src="https://gifdb.com/images/high/animated-girl-hi-waving-zb3ltk28xwzxomxc.webp" alt="adam-pw" /></p>
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/b5/60/f5/b560f54a3552617da0a113f008443add.gif" alt="adam-pw" /></p>
 
 <br>
 <br>
